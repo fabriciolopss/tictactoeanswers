@@ -1,0 +1,25 @@
+.cardTicTacToe {
+  height: 600px;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.upperPart {
+  height: 400px;
+  width: 600px;
+  background-color: #e91e62;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.lowerPart {
+  height: 200px;
+  width: 600px;
+  background-color: white;
+  border-radius: 0px 0px 10px 10px;
+}
+.App {
+  background-color: #202020;
+}
